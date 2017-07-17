@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+04-classification/history/
+04-classification/poetry/
+04-classification/scifi/
