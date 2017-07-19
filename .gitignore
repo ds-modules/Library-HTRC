@@ -103,3 +103,5 @@ ENV/
 04-classification/history/
 04-classification/poetry/
 04-classification/scifi/
+04-classification/hist_texts/
+04-classification/scifi_texts/
